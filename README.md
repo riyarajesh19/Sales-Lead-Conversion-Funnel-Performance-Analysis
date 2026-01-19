@@ -1,4 +1,5 @@
-📊 Sales Lead Conversion & Funnel Performance Analysis (Power BI)
+📊 Sales Lead Conversion & Funnel Performance Analysis (Power BI) | Tool : Power BI
+
 📌 Project Overview
 
 This project analyzes the end-to-end sales lead lifecycle to understand how leads progress through the funnel, identify conversion drivers, uncover drop-off reasons, and evaluate sales team performance.
