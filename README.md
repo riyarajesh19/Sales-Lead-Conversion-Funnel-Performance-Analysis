@@ -1,4 +1,4 @@
-📊 Sales Lead Conversion & Funnel Performance Analysis (Power BI) | Tool : Power BI
+📊 **Sales Lead Conversion & Funnel Performance Analysis | Tool : Power BI**
 
 📌 Project Overview
 
